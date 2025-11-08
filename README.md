@@ -35,7 +35,7 @@ The web interface is built using **Streamlit**, allowing users to input medical 
 [[70 29]
 [12 43]]
 ---------------------------------------------------
-Live Demo:-
+Live Demo:- https://diabetes-prediction-using-stacking-53hx6r2fhv2d9avqg6gqjp.streamlit.app/
 ---------------------------------------------------
 GitHub Repo:- https://github.com/Satyam300702/Diabetes-Prediction-using-Stacking
 ---------------------------------------------------
